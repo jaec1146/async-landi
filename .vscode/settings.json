@@ -1,0 +1,14 @@
+{
+    "explorer.excludeGitIgnore": false,
+    "scm.alwaysShowActions": true,
+    "scm.alwaysShowRepositories": true,
+    "editor.minimap.autohide": true,
+    "editor.inlineSuggest.showToolbar": "always",
+    "editor.inlineSuggest.suppressSuggestions": true,
+    "editor.suggest.localityBonus": true,
+    "editor.suggest.preview": true,
+    "editor.suggest.shareSuggestSelections": true,
+    "diffEditor.codeLens": true,
+    "diffEditor.experimental.showMoves": true,
+    "diffEditor.hideUnchangedRegions.enabled": true
+}
